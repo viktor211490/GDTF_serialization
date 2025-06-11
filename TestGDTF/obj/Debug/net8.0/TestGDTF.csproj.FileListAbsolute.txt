@@ -1,0 +1,17 @@
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\TestGDTF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\TestGDTF.AssemblyInfoInputs.cache
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\TestGDTF.AssemblyInfo.cs
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\TestGDTF.csproj.CoreCompileInputs.cache
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\bin\Debug\net8.0\TestGDTF.exe
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\bin\Debug\net8.0\TestGDTF.deps.json
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\bin\Debug\net8.0\TestGDTF.runtimeconfig.json
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\bin\Debug\net8.0\TestGDTF.dll
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\bin\Debug\net8.0\TestGDTF.pdb
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\TestGDTF.dll
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\refint\TestGDTF.dll
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\TestGDTF.pdb
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\TestGDTF.genruntimeconfig.cache
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\ref\TestGDTF.dll
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\bin\Debug\net8.0\ICSharpCode.SharpZipLib.dll
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\TestGDTF.csproj.AssemblyReference.cache
+C:\Users\jack\source\repos\TestGDTF\TestGDTF\obj\Debug\net8.0\TestGDTF.csproj.Up2Date
